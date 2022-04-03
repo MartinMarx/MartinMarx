@@ -63,6 +63,9 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMarx&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=MartinMarx&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+[![MartinMarx's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MartinMarx&theme=react-dark)](https://git.io/praveenscience)
+
+
 <!--
 <h3>Portfolio</h3>
 
