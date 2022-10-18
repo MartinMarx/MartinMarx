@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://martinmarx.fr/favicon.png" width="100"/>
+  <img src="https://avatars.githubusercontent.com/u/18153385?v=4" width="100"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/m-marx/">
