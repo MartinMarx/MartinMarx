@@ -30,7 +30,7 @@
 
 - 👨‍💻 Web Developer
 
-- 💼 Currently working as a Software Engineer [@stoikio](https://stoik.io)
+- 💼 Currently working as a Software Engineer [@stoik](https://stoik.io)
 
 - 🎓 Gratuate from [EPITA](https://epita.fr)
 
